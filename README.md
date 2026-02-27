@@ -1,4 +1,4 @@
-Rice-Categorize: 基于 GoogLeNet 的大米品种识别系统
+# Rice-Categorize: 基于 GoogLeNet 的大米品种识别系统
 
 本项目是一个基于 Deep Learning 的图像分类任务，旨在利用 GoogLeNet (Inception v1) 网络模型对不同品种的大米图像进行自动化识别与分类。
 
