@@ -64,8 +64,11 @@ python test_model.py
 ---
 
 ## 📦 环境依赖
-* `torch >= 1.7.0`
-* `torchvision`
-* `pandas`
-* `matplotlib`
-* `Pillow`
+* python==3.8
+* pytorch==1.10.1
+* Cudatookit==11.3
+* Cudnn==8.2
+* torchsummary==1.5.1
+* numpy==1.23.2
+* pandas==3.5.0
+* sklearn==0.0
